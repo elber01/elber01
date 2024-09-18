@@ -1,6 +1,6 @@
 # elber01
 
-![Mi banner](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="personal banner" height= "200">
 
 # Hi, this is Edwin Hamilton 👋P
 Fullstack Web Developer in progress, with a lot of passion with tech and design looking for  always  creative solutions to daily issues. With some knowledge on JavaScript, React, y Node.js, SQL python, HTML and CSS. ¡Welcome to my GitHub Profile!
