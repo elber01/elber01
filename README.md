@@ -9,16 +9,17 @@ Fullstack Web Developer in progress, with a lot of passion with tech and design 
 - Frameworks: React, Ruby, Node.js, Django, Express, bootstrap
 - Bases de Datos: MySQL, MongoDB
 - Data Science: Pandas, Numpy
-- DevOPs:Docker, some Kubernetes, trying to learn about Jenkins
+- DevOPs: Docker, some Kubernetes, trying to learn about Jenkins
 - Cybersecurity: Google Cybersecurity Professional
 ### Featured Projects 🚀
 Still in process
 ### Badges
 Still in process
 ### My GitHub Stats
-[github stats](https://github-readme-stats.vercel.app/api?elber01&show_icons=true&theme=radical)
+[github stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
 ### More Used Languages
-[languages](https://github-readme-stats.vercel.app/api/top-langs/?elber01&layout=compact&theme=radical)
+
+[languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
 
 ### ¡Contact! 🌐
 [LinkedIn](https://www.linkedin.com/in/edwin-alfredo-hamilton-pelegr%C3%ADn-aab85512/) | [Twitter](https://twitter.com/elber01) | [Correo](hamilton.edwin@gmail.com)
