@@ -16,11 +16,9 @@ Still in process
 ### Badges
 Still in process
 ### My GitHub Stats
-[github stats](https://github-readme-stats.vercel.app/apielber01&show_icons=true&theme=radical)
+[github stats](https://github-readme-stats.vercel.app/api?username=elber01&show_icons=true&theme=radical)
 ### More Used Languages
-
-[languages](https://github-readme-stats.vercel.app/api/top-langs/elber01&layout=compact&theme=radical)
-
+[coding languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elber01&layout=compact&theme=radical)
 ### ¡Contact! 🌐
 [LinkedIn](https://www.linkedin.com/in/edwin-alfredo-hamilton-pelegr%C3%ADn-aab85512/) | [Twitter](https://twitter.com/elber01) | [Correo](hamilton.edwin@gmail.com)
 
