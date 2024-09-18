@@ -19,10 +19,11 @@ Still in process
 [github stats](https://github-readme-stats.vercel.app/api?username=elber01&show_icons=true&theme=radical)
 ### More Used Languages
 [coding languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elber01&layout=compact&theme=radical)
+[![elber01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elber01&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### ¡Contact! 🌐
 [LinkedIn](https://www.linkedin.com/in/edwin-alfredo-hamilton-pelegr%C3%ADn-aab85512/) | [Twitter](https://twitter.com/elber01) | [Correo](hamilton.edwin@gmail.com)
 
-[![Graph](https://activity-graph.herokuapp.com/graph?username=elber01&theme=dracula)](https://github.com/tu-usuario)
+
 
 🌱 Currently **Javascript, Ruby, Nodejs**
 💬 Ask me about **Cybersecurity, Bootstrap or Webscrapping**
