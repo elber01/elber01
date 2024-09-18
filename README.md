@@ -22,7 +22,7 @@ Still in process
 ### ¡Contact! 🌐
 [LinkedIn](https://www.linkedin.com/in/edwin-alfredo-hamilton-pelegr%C3%ADn-aab85512/) | [Twitter](https://twitter.com/elber01) | [Correo](hamilton.edwin@gmail.com)
 
-[![Graph](https://activity-graph.herokuapp.com/graph?elber01&theme=dracula)](https://github.com/elber01)
+[![Graph](https://activity-graph.herokuapp.com/graph?username=elber01&theme=dracula)](https://github.com/tu-usuario)
 
 🌱 Currently **Javascript, Ruby, Nodejs**
 💬 Ask me about **Cybersecurity, Bootstrap or Webscrapping**
