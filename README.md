@@ -1,6 +1,6 @@
 # elber01
 
-![Mi banner](https://fronty.com/static/uploads/ux%20books/pexels-markus-spiske-1921326.jpg)
+![Mi banner](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 # Hi, this is Edwin Hamilton 👋P
 Fullstack Web Developer in progress, with a lot of passion with tech and design looking for  always  creative solutions to daily issues. With some knowledge on JavaScript, React, y Node.js, SQL python, HTML and CSS. ¡Welcome to my GitHub Profile!
@@ -16,10 +16,10 @@ Still in process
 ### Badges
 Still in process
 ### My GitHub Stats
-[github stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+[github stats](https://github-readme-stats.vercel.app/apielber01&show_icons=true&theme=radical)
 ### More Used Languages
 
-[languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+[languages](https://github-readme-stats.vercel.app/api/top-langs/elber01&layout=compact&theme=radical)
 
 ### ¡Contact! 🌐
 [LinkedIn](https://www.linkedin.com/in/edwin-alfredo-hamilton-pelegr%C3%ADn-aab85512/) | [Twitter](https://twitter.com/elber01) | [Correo](hamilton.edwin@gmail.com)
