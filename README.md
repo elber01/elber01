@@ -18,13 +18,13 @@ Badges 🏆
 
 (Coming Soon)
 My GitHub Stats 📊
-
+[github stats](https://github-readme-stats.vercel.app/api?username=elber01&show_icons=true&theme=radical)
 Edwin's GitHub Stats
 Most Used Languages 💻
-
+[coding languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elber01&layout=compact&theme=radical)
 Most Used Languages
 GitHub Activity Graph 📈
-
+[![elber01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elber01&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 GitHub Activity
 
 🌱 Currently learning: JavaScript, Ruby, Node.js
