@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="personal banner" style="width:100%; height:200px;">
+<img src="https://images.pexels.com/photos/16023919/pexels-photo-16023919/free-photo-of-codigo-html.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="personal banner" style="width:100%; height:200px;">
 
 # Hi, I'm Edwin Hamilton 👋
 Aspiring **Fullstack Web Developer** with a passion for **technology** and **design**, constantly seeking **creative solutions** to real-world problems. I have a growing expertise in **JavaScript, React, Node.js, Python, SQL**, and **HTML/CSS**. Welcome to my GitHub profile!
