@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"personal" style="width:100%; height:200px;">
+<img src="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" style="width:100%; height:200px;">
 
 # Hi, I'm Edwin Hamilton 👋
 Aspiring **Fullstack Web Developer** with a passion for **technology** and **design**, constantly seeking **creative solutions** to real-world problems. I have a growing expertise in **JavaScript, React, Node.js, Python, SQL**, and **HTML/CSS**. Welcome to my GitHub profile!
