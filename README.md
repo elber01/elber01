@@ -18,8 +18,7 @@ Aspiring **Fullstack Web Developer** with a passion for **technology** and **des
 *(Coming Soon)*
 
 ### My GitHub Stats 📊
-https://githubcard.com/elber01.svg?d=-WAJ_8Wx
----
+![Edwin's GitHub Stats](https://githubcard.com/elber01.svg?d=-WAJ_8Wx)
 
 🌱 **Currently learning**: JavaScript, Ruby, Node.js  
 💬 **Ask me about**: Cybersecurity, Bootstrap, Web Scraping  
